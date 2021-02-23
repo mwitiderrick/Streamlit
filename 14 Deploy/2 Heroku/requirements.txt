@@ -1,0 +1,3 @@
+Pillow==8.0.1
+matplotlib==3.3.2
+streamlit==0.70.0

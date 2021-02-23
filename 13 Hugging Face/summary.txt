@@ -1,0 +1,31 @@
+Interested in learning Data Science, Machine Learning, and Deep Learning? Here is a solid plan to do so. 
+
+Python is the most popular language used in Data Science, Machine Learning, and Deep Learning. It’s fairly easy to understand. So I’d suggest that you start by familiarizing yourself with the language. The most important concepts to understand though, are data structures  and Python Functions. 
+
+Once you have Python under your belt, you can now move on to learning NumPy. NumPy is a package that is used for numerical computations such as mean average etc. Most other data science packages are also built on top of it, so this is a must-have skill. The most fundamental item to understand here is NumPy arrays and operations on them. 
+
+Next, you need a tool for data cleaning and manipulation. Pandas is a tool that is built on top of NumPy that does just that. Since most data is usually not clean, this is a tool that you must have in your arsenal. The most important thing to understand here is Pandas DataFrames and how to manipulate them
+
+Now that you can clean and manipulate your data, it would be nice if you can share your analyses in a visual way. Enter Matplotlib. This is a tool that you can use to visualize the results of your data analysis. You can use it to visualize categories, distributions, relationships – just to mention a few. 
+
+Seaborn is built on top of Matplotlib and will give you better-looking visuals than Matplotlib. The tool is very easy to use. However, it is important to note that in case you want to perform very complex visuals, you might have to revert back to Matplotlib. 
+
+Plotly allows you to build visuals that one can interact with. For example, see more information when you hover on an area and the ability to zoom in and out of your visualizations. You can also do advanced visualizations such as mapping using Mapbox that is integrated with Plotly. 
+
+Dash is a web framework that will enable you to build interactive data science applications using Plotly. Any visualization that’s done in Plotly can also be done in Dash. The tool provides all Html via tags via Dash HTML components. It should provide advanced interactive visuals via the Dash Core Components. It works on the principle of Dash Callbacks. You will usually provide some Input and Output to these callbacks. Whenever the Input changes Dash will fire up the callback functions. Amazing, right?
+
+If you are looking for Dash alternatives, then streamlit, is the way to go. It is an open-source framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours. 
+
+If you don’t want to write any code, then you could probably look to Power BI Desktop. All the same, you will still need to find a way to clean your data before importing it into Powe BI Desktop, I can’t think of a better way to do that than to use Python. 
+
+The next thing you can do is dive into the world of machine learning. Here you’ll learn the coolest skills for doing supervised and unsupervised machine learning. The open-source Scikit-Learn package will provide all the tools you need for this. Here your focus will be to understand how data is prepared for machine learning models, data splitting as well as evaluating your machine learning models. 
+
+This is a technique that is used to find the relationship between products. You will find it useful if you work in the retail space such as supermarkets. This skill can help you in increasing sales by identifying items that are frequently bought together. For example, in a Pharmacy, you might find that a patient who buys drug A also buys dug B. It only makes sense to ask a patient who bought drug A if they also have drug B in their prescription. You have seen this technique used in online stores or learning platforms in the form of a frequently bought together section.  
+
+Nowadays we have so much data in text form. This data can be obtained from blogs as well as social sites such as Twitter. The ability to make sense out of that data in indispensable skill in this century. However, handling text data is not a walk in the park. You have to find a way of representing the text data into a numerical form. The good news is that numerous tools that can enable you to do that do exist. 
+
+Once you have grasped the intricacies of machine learning it’s now time for you to look into Deep Learning. This is just an implementation of machine learning that involves the application of neural networks. These networks mimic the working of the human brain. Deep Learning is majorly used when you have a large dataset. It is also widely used in compute-intensive processes such as image classification, image segmentation, and object detection. The most popular tools for doing this are TensorFlow, Keras, and PyTorch. 
+
+This is a fairly new field but it’s sweeping the world like a storm. Imagine for a moment if you could just feed your data to a model and it would do everything for you. This includes data processing and tuning the model to obtain the best results. This is the promise of AutoML. Tools that can enable you to do that include AutoSklearn and AutoKeras. 
+
+Hopefully, this gives you an idea of how your Data Science Learning Path would look like. This is just the tip of the iceberg, once you learn these, you be amazed at the plethora of data science tools and techniques that you can still find on the internet. The point though is to just get started. 

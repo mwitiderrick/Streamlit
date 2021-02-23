@@ -1,0 +1,7 @@
+tensorflow-hub==0.11.0
+numpy
+streamlit
+tensorflow==2.4.1
+pillow
+matplotlib==3.3.4
+

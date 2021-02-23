@@ -1,0 +1,10 @@
+streamlit==0.70.0
+numpy==1.18.5
+pandas==1.1.4
+matplotlib==3.3.2
+seaborn==0.11.0
+altair==4.1.0
+bokeh==2.2.3
+plotly==4.12.0
+Pillow==8.0.1
+python-decouple==3.3
