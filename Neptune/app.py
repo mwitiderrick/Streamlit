@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 import neptune
 
-project = neptune.init(project_qualified_name='mwitiderrick/LightGBM', api_token='eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vdWkubmVwdHVuZS5haSIsImFwaV91cmwiOiJodHRwczovL3VpLm5lcHR1bmUuYWkiLCJhcGlfa2V5IjoiMmRkMDI5NGItYTJjYy00Yjc0LWE0OTEtM2FiMjE1MmVmZjA0In0=')
+project = neptune.init(project_qualified_name='mwitiderrick/LightGBM', api_token='YOUR_TOKEN')
 @st.cache(ttl=60)
 def get_leaderboard_data():
     leaderboard = project.get_leaderboard()
